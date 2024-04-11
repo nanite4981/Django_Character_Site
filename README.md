@@ -1,34 +1,26 @@
 # Overview
 
-{Important!  Do not say in this section that this is college assignment.  Talk about what you are trying to accomplish as a software engineer to further your learning.}
-
 {Provide a description the web app that you wrote. Describe how to start a test server on your computer and what website to open up to see the first page of the app.}
+I wrote a web app that stores data about characters and displays it. If you download my repository, you can run a live server using manage.py runserver. Click on the link it describes and add characters.
 
-{Describe your purpose for writing this software.}
-
-{Provide a link to your YouTube demonstration.  It should be a 4-5 minute demo of the software running (starting the server and navigating through the web pages) and a walkthrough of the code.}
+I wrote this software to familiarize myself with Django for an additional tool.
 
 [Software Demo Video](http://youtube.link.goes.here)
 
 # Web Pages
 
-{Describe each of the web pages you created and how the web app transitions between each of them.  Also describe what is dynamically created on each page.}
+- I built one page that shows a list of characters. Each character can be selected to go to a details page that dynamically generates the details using stored data.
 
 # Development Environment
 
-{Describe the tools that you used to develop the software}
-
-{Describe the programming language that you used and any libraries.}
+-I used Django in Visual Studio Code with the Python language.
 
 # Useful Websites
 
-{Make a list of websites that you found helpful in this project}
-* [Tutorials Point](https://www.tutorialspoint.com/django/index.htm)
-* [Real Python](https://realpython.com/get-started-with-django-1/#create-a-view)
+* [Stack Overflow](https://stackoverflow.com/a/60476081)
+* [W3 Schools](https://www.w3schools.com/django/index.php)
 
 # Future Work
 
-{Make a list of things that you need to fix, improve, and add in the future.}
-* Item 1
-* Item 2
-* Item 3
+* I need to build up my database more.
+* I would love to have additional elements such as images.
