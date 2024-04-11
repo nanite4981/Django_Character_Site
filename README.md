@@ -23,8 +23,8 @@
 # Useful Websites
 
 {Make a list of websites that you found helpful in this project}
-* [Web Site Name](http://url.link.goes.here)
-* [Web Site Name](http://url.link.goes.here)
+* [Tutorials Point](https://www.tutorialspoint.com/django/index.htm)
+* [Real Python](https://realpython.com/get-started-with-django-1/#create-a-view)
 
 # Future Work
 

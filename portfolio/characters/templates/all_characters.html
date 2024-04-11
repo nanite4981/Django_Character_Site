@@ -1,0 +1,16 @@
+{% extends "master.html" %}
+
+{% block title %}
+  My Fan Characters - List of all characters
+{% endblock %}
+
+
+{% block content %}
+  <h1>Characters</h1>
+  
+  <ul>
+    {% for x in mycharacters %}
+      <li><a href="details/{{ x.id }}">{{ x.firstname }} {{ x.lastname }}</a></li>
+    {% endfor %}
+  </ul>
+{% endblock %}
